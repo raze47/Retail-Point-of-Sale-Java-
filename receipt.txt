@@ -1,0 +1,2 @@
+Customer number: 107 | Order number: 70
+Prod no: 13 Prod name: 4GB DDR5 128-bit Video Card Prod Qty: 5 Prod Total: 48000
